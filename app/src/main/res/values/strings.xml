@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gitter</string>
+
+    <string name="empty_state_no_result">Sorry, we cannot find any user that matched the keyword %s.</string>
+    <string name="empty_state_error">Sorry, an error occured. %s</string>
+</resources>

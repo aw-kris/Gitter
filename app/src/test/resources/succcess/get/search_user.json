@@ -1,0 +1,48 @@
+{
+  "total_count": 47379,
+  "incomplete_results": false,
+  "items": [
+    {
+      "login": "kris",
+      "id": 3292,
+      "node_id": "MDQ6VXNlcjMyOTI=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3292?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kris",
+      "html_url": "https://github.com/kris",
+      "followers_url": "https://api.github.com/users/kris/followers",
+      "following_url": "https://api.github.com/users/kris/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kris/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kris/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kris/subscriptions",
+      "organizations_url": "https://api.github.com/users/kris/orgs",
+      "repos_url": "https://api.github.com/users/kris/repos",
+      "events_url": "https://api.github.com/users/kris/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kris/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 639.71246
+    },
+    {
+      "login": "kriskowal",
+      "id": 60294,
+      "node_id": "MDQ6VXNlcjYwMjk0",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/60294?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/kriskowal",
+      "html_url": "https://github.com/kriskowal",
+      "followers_url": "https://api.github.com/users/kriskowal/followers",
+      "following_url": "https://api.github.com/users/kriskowal/following{/other_user}",
+      "gists_url": "https://api.github.com/users/kriskowal/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/kriskowal/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/kriskowal/subscriptions",
+      "organizations_url": "https://api.github.com/users/kriskowal/orgs",
+      "repos_url": "https://api.github.com/users/kriskowal/repos",
+      "events_url": "https://api.github.com/users/kriskowal/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/kriskowal/received_events",
+      "type": "User",
+      "site_admin": false,
+      "score": 105.994194
+    }
+  ]
+}
